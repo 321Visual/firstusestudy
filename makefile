@@ -1,5 +1,5 @@
 cc=g++
-target=main
+target=exemain
 source=main.cpp
 
 $(target):$(source)
